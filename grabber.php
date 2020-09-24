@@ -2,8 +2,8 @@
 ob_start();
 error_reporting(0);
 
-$client_id     = ""; //CLIENT ID HERE
-$client_secret = ""; //CLIENT SECRET HERE
+$client_id     = ""; //758676255989039167
+$client_secret = ""; //_6M0owf0Rok-otfJFgxcxjn77kMgz7E1
 $redirect      = ""; //PATH TO THIS FILE (SAME AS THE ONE YOU SET IN DISCORDAPP.COM/DEVELOPERS)
 
 function get_ip_address()
